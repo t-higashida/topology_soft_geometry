@@ -1,0 +1,574 @@
+This is pTeX, Version p2.1.5.beta12, based on TeX, Version 3.14159 (SJIS) (Web2c 7.0) (format=platex 5.8.11)  4 JUL 2008 13:55
+**kensaku
+(kensaku.tex
+pLaTeX2e <1997/07/02>+2 (based on LaTeX2e <1997/06/01> patch level 0)
+(c:/usr/local/share/texmf/tex/platex/local/myjbook.cls
+Document Class: myjbook 1997/08/14 v1.3 Okumura's Classes
+LaTeX Info: Redefining \sffamily on input line 28.
+LaTeX Info: Redefining \ttfamily on input line 31.
+(c:/usr/local/share/texmf/tex/platex/local/myjbk10.clo
+File: myjbk10.clo 1997/08/14 v1.3 Okumura's Classes
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 29.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\@lnumwidth=\dimen118
+\bibindent=\dimen119
+)
+(c:/usr/local/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1997/06/09 v1.0d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/usr/local/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1995/09/21 v1.09 key=value parser (DPC)
+)
+(c:/usr/local/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 1997/06/07 v1.0d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/usr/local/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1994/10/16 v1.08 sin cos tan (DPC)
+)
+(c:/usr/local/share/texmf/tex/latex/config/graphics.cfg)
+Package graphics Info: Driver file: dviout.def on input line 84.
+
+(c:/usr/local/share/texmf/tex/latex/graphics/dviout.def
+File: dviout.def 1997/6/29 Driver file of `dviout' for LaTeXe
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(c:/usr/local/share/texmf/tex/platex/base/accents.sty
+Package: accents 2000/08/06 v1.2 Math Accent Tools
+\cc@skew=\dimen122
+\cc@wd=\dimen123
+\cc@code=\count90
+\cc@group=\count91
+\cc@skewchar=\count92
+)
+(c:/usr/local/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 1997/03/24 v2.2c
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 133.
+)
+(c:/usr/local/share/texmf/tex/latex/amslatex/amsmath.sty
+Package: amsmath 1997/03/20 v1.2d AMS math features
+\@mathmargin=\skip43
+
+(c:/usr/local/share/texmf/tex/latex/amslatex/amstext.sty
+Package: amstext 1996/10/28 v1.2b
+
+(c:/usr/local/share/texmf/tex/latex/amslatex/amsgen.sty
+File: amsgen 1996/10/29 v1.2b
+\@emptytoks=\toks16
+\ex@=\dimen124
+))
+(c:/usr/local/share/texmf/tex/latex/amslatex/amsbsy.sty
+Package: amsbsy 1996/10/28 v1.2b
+\pmbraise@=\dimen125
+)
+(c:/usr/local/share/texmf/tex/latex/amslatex/amsopn.sty
+Package: amsopn 1996/10/28 v1.2b operator names
+)
+LaTeX Info: Redefining \frac on input line 188.
+\uproot@=\count93
+\leftroot@=\count94
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \dots on input line 335.
+LaTeX Info: Redefining \ldots on input line 418.
+LaTeX Info: Redefining \cdots on input line 422.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 500.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 501.
+\skewcharcount@=\count97
+\familycount@=\count98
+\pointcount@=\count99
+\accentdimen@=\dimen127
+\accentmu@=\count100
+\minaw@=\dimen128
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+)
+(c:/usr/local/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 1996/11/03 v2.2b
+)
+(c:/usr/local/share/texmf/tex/latex/amsfonts/eucal.sty
+Package: eucal 1995/01/06 v2.2 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 47.
+)
+(c:/usr/local/share/texmf/tex/latex/base/latexsym.sty
+Package: latexsym 1996/11/20 v2.2d Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 85.
+)
+(c:/usr/local/share/texmf/tex/latex/misc/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count107
+\d@lta=\count108
+\@delta=\dimen135
+\@@delta=\dimen136
+\@gridcnt=\count109
+\@joinkind=\count110
+\@dotgap=\dimen137
+\@ddotgap=\dimen138
+\@x@diff=\count111
+\@y@diff=\count112
+\x@diff=\dimen139
+\y@diff=\dimen140
+\@dotbox=\box43
+\num@segments=\count113
+\num@segmentsi=\count114
+\@datafile=\read1
+) (c:/usr/local/share/texmf/tex/latex/misc/eepic.sty
+Extension to Epic and LaTeX. Version 1.1b - Released Febrary 7, 1988
+\@gphlinewidth=\count115
+\@eepictcnt=\count116
+\@tempdimc=\dimen141
+\maxovaldiam=\dimen142
+\@filltype=\box44
+) (c:/usr/local/share/texmf/tex/platex/base/ascmac.sty
+(c:/usr/local/share/texmf/tex/platex/base/tascmac.sty
+\@savetbaselineshift=\dimen143
+\@saveybaselineshift=\dimen144
+\scb@x=\box45
+\scscb@x=\box46
+\@bw=\dimen145
+\@nbox=\box47
+\@nbody=\box48
+\@scw=\dimen146
+\@itemh=\dimen147
+\@iboxstr=\toks20
+\@iboxpos=\toks21
+\@bwsp=\box49
+\@@bwsp=\box50
+\@bcal=\count117
+\shaderule=\dimen148
+))
+(c:/usr/local/share/texmf/tex/latex/amslatex/amscd.sty
+Package: amscd 1996/10/28 v1.2b
+\athelp@=\toks22
+\bigaw@=\dimen149
+\minCDarrowwidth=\dimen150
+)
+(c:/usr/local/share/texmf/tex/generic/xypic/xy.sty
+(c:/usr/local/share/texmf/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (c:/usr/local/share/texmf/tex/generic/xypic/xyrecat.tex)
+(c:/usr/local/share/texmf/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen151
+\Y@c=\dimen152
+\U@c=\dimen153
+\D@c=\dimen154
+\L@c=\dimen155
+\R@c=\dimen156
+\Edge@c=\toks23
+\X@p=\dimen157
+\Y@p=\dimen158
+\U@p=\dimen159
+\D@p=\dimen160
+\L@p=\dimen161
+\R@p=\dimen162
+\Edge@p=\toks24
+\X@origin=\dimen163
+\Y@origin=\dimen164
+\X@xbase=\dimen165
+\Y@xbase=\dimen166
+\X@ybase=\dimen167
+\Y@ybase=\dimen168
+\X@min=\dimen169
+\Y@min=\dimen170
+\X@max=\dimen171
+\Y@max=\dimen172
+\lastobjectbox@=\box51
+\zerodotbox@=\box52
+\almostz@=\dimen173
+ direction,
+\d@X=\dimen174
+\d@Y=\dimen175
+\K@=\count118
+\KK@=\count119
+\Direction=\count120
+\K@dXdY=\dimen176
+\K@dYdX=\dimen177
+\xyread@=\read2
+\xywrite@=\write3
+\csp@=\count121
+\quotPTK@=\dimen178
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks25
+\connectobjectbox@@=\box53
+ objects,
+\styletoks@=\toks26
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+Package: xy 1999/02/16 Xy-pic version 3.7
+
+(c:/usr/local/share/texmf/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(c:/usr/local/share/texmf/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve,
+\crv@cnt@=\count122
+\crvpts@=\toks27
+\splinebox@=\box54
+\splineval@=\dimen179
+\splinedepth@=\dimen180
+\splinetol@=\dimen181
+\splinelength@=\dimen182
+ circles,
+\L@=\dimen183
+ loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(c:/usr/local/share/texmf/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6
+\xylinethick@=\dimen184
+ loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4
+\Row=\count123
+\Col=\count124
+\queue@=\toks28
+\queue@@=\toks29
+\qcount@=\count125
+\qcount@@=\count126
+\matrixsize@=\count127
+ loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(c:/usr/local/share/texmf/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded)) (kensaku.aux (sec0.aux)
+(sec1.aux) (sec1x2.aux) (sec2.aux
+
+LaTeX Warning: Label `sec1x1' multiply defined.
+
+) (sec2x2.aux) (sec2x3.aux) (sec2x4.aux) (sec3.aux) (sec3x2.aux) (sec3x3.aux)
+(sec4.aux))
+\openout1 = `kensaku.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+\openout2 = `sec0.aux'.
+
+ (sec0.tex
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 19.9311pt on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 19.9311pt on input line 2.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 23.90964pt on input line 5.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 23.90964pt on input line 5.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+ (c:/usr/local/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 1995/01/05 v2.2e AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+
+(c:/usr/local/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 1995/01/05 v2.2e AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 43.
+
+(c:/usr/local/share/texmf/tex/latex/base/ulasy.fd
+File: ulasy.fd 1996/11/20 v2.2dLaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 43.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 43.
+ [1
+
+
+
+] [2
+
+
+]
+\openout2 = `sec1.aux'.
+
+ (sec1.tex
+ëÊ1èÕ
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 3.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 3.
+) [1
+
+
+]
+\openout2 = `sec1x2.aux'.
+
+ (sec1x2.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
+ (c:/usr/local/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1997/06/16 v2.5e Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+ [2
+
+
+]
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 77.
+
+
+LaTeX Warning: File `fig1x10.bmp' not found on input line 95.
+
+File: fig1x10.bmp Graphic file (type bmp)
+<fig1x10.bmp 2bp x 2bp>
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 96.
+
+
+LaTeX Warning: File `fig1x11.bmp' not found on input line 107.
+
+File: fig1x11.bmp Graphic file (type bmp)
+<fig1x11.bmp 2bp x 2bp>
+Overfull \hbox (4.05338pt too wide) in paragraph at lines 128--128
+[] 
+ []
+
+[3]
+
+LaTeX Warning: File `fig1x12.bmp' not found on input line 147.
+
+File: fig1x12.bmp Graphic file (type bmp)
+<fig1x12.bmp 2bp x 2bp>
+Overfull \hbox (138.3904pt too wide) in paragraph at lines 165--165
+[] 
+ []
+
+[4]
+File: figq1x5.bmp Graphic file (type bmp)
+ <figq1x5.bmp 340bp x 170bp> [5]
+
+LaTeX Warning: File `fig1x13.bmp' not found on input line 254.
+
+File: fig1x13.bmp Graphic file (type bmp)
+<fig1x13.bmp 2bp x 2bp>
+
+LaTeX Warning: File `fig1x14.bmp' not found on input line 260.
+
+File: fig1x14.bmp Graphic file (type bmp)
+<fig1x14.bmp 2bp x 2bp> [6]
+
+LaTeX Warning: File `fig1x15.bmp' not found on input line 291.
+
+File: fig1x15.bmp Graphic file (type bmp)
+<fig1x15.bmp 2bp x 2bp>
+
+LaTeX Warning: File `fig1x16.bmp' not found on input line 303.
+
+File: fig1x16.bmp Graphic file (type bmp)
+<fig1x16.bmp 2bp x 2bp> [7]
+
+LaTeX Warning: Reference `fig1x17' on page 8 undefined on input line 329.
+
+
+LaTeX Warning: File `fig1x18.bmp' not found on input line 336.
+
+File: fig1x18.bmp Graphic file (type bmp)
+<fig1x18.bmp 2bp x 2bp>) [8]
+\openout2 = `sec2.aux'.
+
+ (sec2.tex
+ëÊ2èÕ
+
+LaTeX Warning: File `fig2x1.bmp' not found on input line 21.
+
+File: fig2x1.bmp Graphic file (type bmp)
+<fig2x1.bmp 2bp x 2bp>
+
+LaTeX Warning: File `fig2x2.bmp' not found on input line 43.
+
+File: fig2x2.bmp Graphic file (type bmp)
+<fig2x2.bmp 2bp x 2bp> [9
+
+
+
+]
+
+LaTeX Warning: File `fig2x3.bmp' not found on input line 65.
+
+File: fig2x3.bmp Graphic file (type bmp)
+<fig2x3.bmp 2bp x 2bp> [10]
+
+LaTeX Warning: Reference `fig2x6' on page 11 undefined on input line 132.
+
+
+LaTeX Warning: Reference `fig2x7' on page 11 undefined on input line 142.
+
+) [11]
+\openout2 = `sec2x2.aux'.
+
+ (sec2x2.tex
+
+LaTeX Warning: Reference `fig2x13' on page 12 undefined on input line 4.
+
+[12
+
+
+] [13]
+
+LaTeX Warning: File `fig2x21.bmp' not found on input line 159.
+
+File: fig2x21.bmp Graphic file (type bmp)
+<fig2x21.bmp 2bp x 2bp>
+
+LaTeX Warning: File `fig2x22.bmp' not found on input line 174.
+
+File: fig2x22.bmp Graphic file (type bmp)
+<fig2x22.bmp 2bp x 2bp> [14] [15] [16] [17]
+Missing character: There is no ° in font cmr10!
+) [18]
+\openout2 = `sec2x3.aux'.
+
+ (sec2x3.tex
+
+LaTeX Warning: Reference `fig2x31' on page 19 undefined on input line 34.
+
+
+LaTeX Warning: Reference `fig2x33' on page 19 undefined on input line 70.
+
+[19
+
+
+]
+
+LaTeX Warning: Reference `fig2x34' on page 20 undefined on input line 83.
+
+[20] [21] [22] [23]
+Missing character: There is no • in font cmr10!
+ [24] [25]) [26]
+\openout2 = `sec2x4.aux'.
+
+ (sec2x4.tex [27
+
+
+] [28]) [29]
+\openout2 = `sec3.aux'.
+
+ (sec3.tex
+[30
+
+
+
+]
+ëÊ3èÕ
+[31] [32] [33] [34] [35]) [36]
+\openout2 = `sec3x2.aux'.
+
+ (sec3x2.tex [37
+
+
+] [38] [39]) [40]
+\openout2 = `sec3x3.aux'.
+
+ (sec3x3.tex
+[41
+
+
+] [42] [43]) [44]
+\openout2 = `sec4.aux'.
+
+ (sec4.tex
+ëÊ4èÕ
+[45
+
+
+
+] [46] [47] [48] [49] [50]) [51] (kensaku.aux (sec0.aux) (sec1.aux)
+(sec1x2.aux) (sec2.aux) (sec2x2.aux) (sec2x3.aux) (sec2x4.aux) (sec3.aux)
+(sec3x2.aux) (sec3x3.aux) (sec4.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4037 strings out of 10649
+ 45305 string characters out of 69356
+ 144504 words of memory out of 250001
+ 7016 multiletter control sequences out of 10000+0
+ 22656 words of font info for 105 fonts, out of 100000 for 500
+ 14 hyphenation exceptions out of 1000
+ 28i,13n,24p,226b,384s stack positions out of 300i,100n,500p,3000b,4000s
+
+Output written on kensaku.dvi (53 pages, 181276 bytes).
